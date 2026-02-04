@@ -4,6 +4,7 @@
         "id": 1,
         "name": "Alice",
         "email": "alice@example.com",
+        "password": "alice123",
         "icon": "https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "line": "www.google.com"
@@ -15,6 +16,7 @@
         "id": 1,
         "name": "Admin",
         "email": "admin@example.com",
+        "password": "admin123",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLFWnf4SYwt0w_Ll2IkFWzcAym4F28yboqQ&s",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         }
